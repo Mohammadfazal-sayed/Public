@@ -1,1 +1,2 @@
-sudo mkdir server..
+sudo mkdir server 
+sudo touch Destop
